@@ -1,0 +1,28 @@
+
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+My Android class projects.
+
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Init creates meta-folder .git which will hold commit info.
+
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Files in working directory may or may not be put in version control. 
+Files in staging area get committed to repository. 
+You can have files that are not necessary to the final project in working directory. 
+
+
+
+
+
+
