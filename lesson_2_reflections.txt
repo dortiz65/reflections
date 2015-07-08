@@ -42,6 +42,9 @@ How do the diagrams help you visualize the branch structure?
 Branches show workflow development of the code. 
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches leaves a single head node where there used to be two. 
 
 
 
