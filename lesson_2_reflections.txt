@@ -48,4 +48,10 @@ Merging two branches leaves a single head node where there used to be two.
 
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pro: saves time
+Con: can create bugs if not done properly 
+
+
 
