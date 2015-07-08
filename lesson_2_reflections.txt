@@ -33,3 +33,16 @@ What are some situations when branches would be helpful in keeping your history 
 Introduce a branch to try experimental code leaving known good code in master. 
 If experimental code breaks, just go back to master. 
 
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+
+Branches show workflow development of the code. 
+
+
+
+
+
+
